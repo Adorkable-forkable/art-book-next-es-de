@@ -1,0 +1,23 @@
+<theme>
+    <variables>
+        <systemName>Scratch 3</systemName>
+        <systemDescription>Scratch is a high-level, block-based visual programming language and
+            website aimed primarily at children as an educational tool, with a target audience of
+            ages 5 to 16. Users can create projects on the website using a block-like
+            interface. Scratch was conceived and designed through collaborative National Science
+            Foundation grants awarded to Mitchel Resnick and Yasmin Kafai.</systemDescription>
+        <systemManufacturer>MIT Media Lab</systemManufacturer>
+        <systemReleaseYear>2003</systemReleaseYear>
+        <systemReleaseDate>2003-10-11</systemReleaseDate>
+        <systemReleaseDateFormated>October 11, 2003</systemReleaseDateFormated>
+        <systemHardwareType>Engine</systemHardwareType>
+        <systemCoverSize>752-1440</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>d4a53a</systemColor>
+        <systemColorPalette1>F9A83A</systemColorPalette1>
+        <systemColorPalette2>FFFFFF</systemColorPalette2>
+        <systemColorPalette3>000000</systemColorPalette3>
+        <systemColorPalette4>4C97FF</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+</theme>
